@@ -32,6 +32,11 @@ int main()
     cout << p.front() << endl;
     p.pop();
     }
+    list<int> l;
+    l.insert(1);
+    l.insert(3);
+    l.insert(8);
+
 
 
 }
